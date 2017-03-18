@@ -29,7 +29,7 @@
     "gulp-watch": "~4.3.11",
     "handlebars": "~4.0.6",
     "keystone": "https://github.com/keystonejs/keystone.git#c38b366c7b1bf01448c8ece7c36e1bb6eb195186",
-    "moment": "~2.17.0",
+    "moment": "~2.18.0",
     "mongoose-simple-random": "^0.4.1",
     "newrelic": "^1.37.2",
     "node-sass": "^4.5.0",
