@@ -10,7 +10,7 @@
     "async": "^2.5.0",
     "browserify": "^14.3.0",
     "cloudinary": "~1.9.0",
-    "crypto": "0.0.3",
+    "crypto": "1.0.0",
     "del": "^3.0.0",
     "dotenv": "^4.0.0",
     "express-handlebars": "~3.0.0",
