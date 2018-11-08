@@ -2069,11 +2069,11 @@ cloudinary@^1.2.5:
     lodash "3.10.x"
     q "1.4.x"
 
-cloudinary@~1.10.0:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.10.0.tgz#4dfaeeebf932fe98e61d2f7e4d2391c39e76bbf8"
+cloudinary@~1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.12.0.tgz#390a70bf2278606a8f77467dfdf9d9c67ccf1b6c"
   dependencies:
-    lodash "^4.17.4"
+    lodash "^4.17.11"
     q "^1.5.1"
 
 co@3.1.0:
@@ -5822,6 +5822,10 @@ lodash@3.10.x, lodash@^3.10.1, lodash@^3.2.0, lodash@^3.5.0, lodash@^3.9.3:
 lodash@^4.0.0, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.4, lodash@^4.3.0, lodash@~4.17.4:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+
+lodash@^4.17.11:
+  version "4.17.11"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
 logalot@^2.0.0:
   version "2.1.0"
