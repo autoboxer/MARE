@@ -1420,7 +1420,7 @@ bluebird@^2.10.2:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-2.11.0.tgz#534b9033c022c9579c56ba3b3e5a5caafbb650e1"
 
-bluebird@^3.0.6, bluebird@^3.5.0:
+bluebird@^3.0.6:
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.1.tgz#d9551f9de98f1fcda1e683d17ee91a0602ee2eb9"
 
@@ -8478,11 +8478,11 @@ strip-outer@^1.0.0:
   dependencies:
     escape-string-regexp "^1.0.2"
 
-stripe@^5.4.0:
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-5.4.0.tgz#df258a983386f132bc2b8846cbb7a39761de2694"
+stripe@^6.19.0:
+  version "6.19.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-6.19.0.tgz#9976871d3423eee7caecde0e36b288d587a19347"
+  integrity sha512-UHdFhnGrlQw5TWq7XQChbo3Tesv84Td5LsgbRO1y2XgPnf3k0TGAy1LcOO9BtkKyl+wrUKkXO2SslNntTUMlCQ==
   dependencies:
-    bluebird "^3.5.0"
     lodash.isplainobject "^4.0.6"
     qs "~6.5.1"
     safe-buffer "^5.1.1"
