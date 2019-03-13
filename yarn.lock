@@ -2896,9 +2896,10 @@ dot-parts@~1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/dot-parts/-/dot-parts-1.0.1.tgz#884bd7bcfc3082ffad2fe5db53e494d8f3e0743f"
 
-dotenv@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-5.0.0.tgz#0206eb5b336639bf377618a2a304ff00c6a1fddb"
+dotenv@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-7.0.0.tgz#a2be3cd52736673206e8a85fb5210eea29628e7c"
+  integrity sha512-M3NhsLbV1i6HuGzBUH8vXrtxOk+tWmzWKDMbAVSUp3Zsjm7ywFeuwrUXhmhQyRK1q5B5GGy7hcXPbj3bnfZg2g==
 
 download@^4.0.0, download@^4.1.2:
   version "4.4.3"
