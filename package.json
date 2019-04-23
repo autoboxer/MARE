@@ -16,7 +16,7 @@
     "express-robots": "^0.1.6",
     "gulp": "gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^5.0.0",
-    "gulp-clean-css": "^3.9.2",
+    "gulp-clean-css": "^4.1.1",
     "gulp-concat": "^2.6.1",
     "gulp-eslint": "^4.0.0",
     "gulp-filter": "^5.1.0",
