@@ -22,7 +22,7 @@
     "gulp-filter": "^5.1.0",
     "gulp-ignore": "^2.0.2",
     "gulp-imagemin": "^4.1.0",
-    "gulp-mocha": "^5.0.0",
+    "gulp-mocha": "^7.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.3",
