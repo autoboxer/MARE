@@ -2069,11 +2069,12 @@ cloudinary@^1.2.5:
     lodash "3.10.x"
     q "1.4.x"
 
-cloudinary@~1.10.0:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.10.0.tgz#4dfaeeebf932fe98e61d2f7e4d2391c39e76bbf8"
+cloudinary@~1.15.0:
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.15.0.tgz#3e4b350604875f868cd8c6d710edfabd1a51efe0"
+  integrity sha512-31E7i7BOVOPfr1uLJhmuK2ZnBvlNv5+/RXmcfUn06kao03aSWDwQ4AuybQiem90jTwMXf2QX3L1f0RVkCbdQ7w==
   dependencies:
-    lodash "^4.17.4"
+    lodash "^4.17.11"
     q "^1.5.1"
 
 co@3.1.0:
@@ -5822,6 +5823,11 @@ lodash@3.10.x, lodash@^3.10.1, lodash@^3.2.0, lodash@^3.5.0, lodash@^3.9.3:
 lodash@^4.0.0, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.4, lodash@^4.3.0, lodash@~4.17.4:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+
+lodash@^4.17.11:
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 logalot@^2.0.0:
   version "2.1.0"
