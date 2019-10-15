@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "browserify": "^16.1.0",
-    "cloudinary": "~1.10.0",
+    "cloudinary": "~1.16.0",
     "del": "^3.0.0",
     "dotenv": "^5.0.0",
     "express-handlebars": "~3.0.0",
